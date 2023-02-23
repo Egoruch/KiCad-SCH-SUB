@@ -48,7 +48,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 96.52 60.96 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d8db335-7893-458a-91d3-86b0f4457933)
     (property "Reference" "FID1" (at 99.06 60.325 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -63,7 +63,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "KiCad-SCH-SUB"
+      (project "KiCad-SCH-SUB-Fiducials"
         (path "/d38811ea-76f9-423e-a00e-9090662f3ef7"
           (reference "FID1") (unit 1)
         )
@@ -72,7 +72,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 96.52 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4113dc85-230c-4cb1-a88b-bd7e752554ac)
     (property "Reference" "FID4" (at 99.06 75.565 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -87,7 +87,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "KiCad-SCH-SUB"
+      (project "KiCad-SCH-SUB-Fiducials"
         (path "/d38811ea-76f9-423e-a00e-9090662f3ef7"
           (reference "FID4") (unit 1)
         )
@@ -96,7 +96,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 96.52 71.12 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a00a569-6d74-48a6-bcc3-a4c6b4de88cf)
     (property "Reference" "FID3" (at 99.06 70.485 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -111,7 +111,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "KiCad-SCH-SUB"
+      (project "KiCad-SCH-SUB-Fiducials"
         (path "/d38811ea-76f9-423e-a00e-9090662f3ef7"
           (reference "FID3") (unit 1)
         )
@@ -120,7 +120,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 96.52 66.04 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6a3beae-6e14-4c65-8a26-e606143b44c4)
     (property "Reference" "FID2" (at 99.06 65.405 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -135,7 +135,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "KiCad-SCH-SUB"
+      (project "KiCad-SCH-SUB-Fiducials"
         (path "/d38811ea-76f9-423e-a00e-9090662f3ef7"
           (reference "FID2") (unit 1)
         )
