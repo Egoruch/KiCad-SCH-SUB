@@ -1369,7 +1369,7 @@
   (symbol (lib_id "Custom_Resistors:0603WAF0000T5E") (at 107.95 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 02111153-b95d-4760-a386-c0c0f62e5062)
-    (property "Reference" "R12" (at 107.95 38.1 90)
+    (property "Reference" "R?" (at 107.95 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 107.95 40.64 90)
@@ -1410,12 +1410,12 @@
     (instances
       (project "LDT001-001-R02"
         (path "/000193ae-88c8-4515-a3a9-4e9c5b9342a9"
-          (reference "R12") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/000193ae-88c8-4515-a3a9-4e9c5b9342a9/a4cb2dad-b29f-45e3-85cc-4d5e863ac7dd"
           (reference "R15") (unit 1)
         )
-        (path "/000193ae-88c8-4515-a3a9-4e9c5b9342a9/7c0d107c-2684-45c9-98f8-0cb9d587de22"
+        (path "/000193ae-88c8-4515-a3a9-4e9c5b9342a9/d3571d65-8cc6-4952-821e-a41efe8eaa7c"
           (reference "R12") (unit 1)
         )
       )
